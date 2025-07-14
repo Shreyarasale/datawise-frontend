@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/datawise/static/css/main.e6c13ad2.css",
-    "main.js": "/datawise/static/js/main.492b6365.js",
-    "static/js/453.787e80fe.chunk.js": "/datawise/static/js/453.787e80fe.chunk.js",
-    "index.html": "/datawise/index.html",
-    "main.e6c13ad2.css.map": "/datawise/static/css/main.e6c13ad2.css.map",
-    "main.492b6365.js.map": "/datawise/static/js/main.492b6365.js.map",
-    "453.787e80fe.chunk.js.map": "/datawise/static/js/453.787e80fe.chunk.js.map"
+    "main.css": "/datawise-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/datawise-frontend/static/js/main.b6055148.js",
+    "static/js/453.787e80fe.chunk.js": "/datawise-frontend/static/js/453.787e80fe.chunk.js",
+    "index.html": "/datawise-frontend/index.html",
+    "main.e6c13ad2.css.map": "/datawise-frontend/static/css/main.e6c13ad2.css.map",
+    "main.b6055148.js.map": "/datawise-frontend/static/js/main.b6055148.js.map",
+    "453.787e80fe.chunk.js.map": "/datawise-frontend/static/js/453.787e80fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.492b6365.js"
+    "static/js/main.b6055148.js"
   ]
 }
